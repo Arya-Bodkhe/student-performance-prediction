@@ -21,6 +21,11 @@ This project predicts student performance using machine learning techniques in O
 * Model training using Random Forest
 * Evaluation of model performance
 
+## Screenshots
+
+### Workflow
+![Workflow](screenshot/workflow.png)
+
 ## Project Structure
 
 ```
